@@ -15,8 +15,6 @@ This component is the top header for home page.
           <v-card color="#F5F6F7" class="container-bg pa-2 fill-height" flat tile>
             <div
               class="
-
-                mt-16
                 grey--text
                 text--darken-4
                 font-weight-bold
