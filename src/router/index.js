@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import DepositFiet from '../views/DepositFiet.vue'
 import Login from '../components/login.vue'
 import SignUp from '../components/SignUp.vue'
 import NewDeviceForm from '../components/NewDeviceForm'
@@ -27,6 +28,11 @@ const routes = [{
         path: '/NewDeviceForm',
         name: 'NewDeviceForm',
         component: NewDeviceForm
+    },
+    {
+        path: '/DepositFiet',
+        name: 'DepositFiet',
+        component: DepositFiet
     },
     // {
     //   path: '/about',

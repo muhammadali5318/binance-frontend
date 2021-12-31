@@ -1,7 +1,7 @@
 <template>
 <v-container>
-
-     <v-row class="mb-16" gutters>
+  <h1 class="mt-16">Get In Touch. Stay in Touch.</h1>
+     <v-row class="my-10" gutters>
           <v-col
             v-for="n in infoSection"
             :key="n.title"
@@ -14,9 +14,9 @@
             xl="3"
           >
             <div>
-              <v-icon x-large color="blue lighten-5">{{ n.icon }}</v-icon>
-              <h2 class="grey--text mt-6 mb-3">{{ n.title }}</h2>
-              <p class="grey--text font-weight-regular">
+              <v-icon color="Grey darken-5" size="70">{{ n.icon }}</v-icon>
+              <h2 class="grey--text text--darken-2 mt-10 mb-3">{{ n.title }}</h2>
+              <p class="grey--text text--darken-1 font-weight-regular">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem
                 dolorem illum, incidunt odit corrupti perspiciatis deleniti aut
                 tenetur quia repellat inventore quasi error culpa quis velit
@@ -35,20 +35,20 @@ export default {
         return{
   infoSection: [
         {
-          title: "Start online Shopping now",
-          icon: "mdi-cursor-default-click",
+          title: "24/7 Support",
+          icon: "mdi-card-account-phone",
         },
         {
-          title: "Move your business online",
-          icon: "mdi-arrow-expand-horizontal",
+          title: "Binance Blog",
+          icon: "mdi-post",
         },
         {
-          title: "Hire a Shopify expert",
+          title: "Community",
           icon: "mdi-account-multiple",
         },
         {
-          title: "Switch to Shopify",
-          icon: "mdi-home-switch",
+          title: "Careers",
+          icon: "mdi-account-group",
         },
       ],
         }
