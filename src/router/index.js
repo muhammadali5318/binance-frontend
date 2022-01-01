@@ -2,6 +2,8 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import DepositFiet from '../views/DepositFiet.vue'
+import CurrencyConverter from '../views/CurrencyConverter.vue'
+import KYCVerification from '../views/KYCVerification.vue'
 import Login from '../components/login.vue'
 import SignUp from '../components/SignUp.vue'
 import NewDeviceForm from '../components/NewDeviceForm'
@@ -33,6 +35,16 @@ const routes = [{
         path: '/DepositFiet',
         name: 'DepositFiet',
         component: DepositFiet
+    },
+    {
+        path: '/CurrencyConverter',
+        name: 'CurrencyConverter',
+        component: CurrencyConverter
+    },
+    {
+        path: '/KYCVerification',
+        name: 'KYCVerification',
+        component: KYCVerification
     },
     // {
     //   path: '/about',

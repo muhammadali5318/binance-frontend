@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <section>
     <NavBar />
     <div class="py-6 grey lighten-5">
       <v-container>
@@ -90,7 +90,7 @@
       </v-row>
     </v-container>
     <section class="d-flex flex-column justify-center align-center"></section>
-  </div>
+  </section>
   <!-- *************************************************** -->
 </template>
 
