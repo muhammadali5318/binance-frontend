@@ -1,7 +1,20 @@
 # binance
 
-## Home Page
-![Home Page](./src/assets/readmeImage/HomePage.png)
+##  Refrence Screen Shots 
+###  Home Page
+![ ](./src/assets/readmeImage/HomePage.png)
+
+![ ](./src/assets/readmeImage/Home1.png)
+
+### KYC Verification 
+![ ](./src/assets/readmeImage/KYC1.png)
+![ ](./src/assets/readmeImage/kycImageCapture.png)
+
+### Currency Converter
+![ ](./src/assets/readmeImage/currencyconverter.png)
+
+### Deposit Fiet
+![ ](./src/assets/readmeImage/DepositFiet.png)
 
 
 ## Project setup
