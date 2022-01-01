@@ -1,6 +1,12 @@
+/*
+System: Binance Front-end
+Developer: Muhammad Ali
+Date: Jan 1, 2022
+Organization: Programmer Force
+Purpose: This file App.vue is the main view component where all the other components are being rendered.
+*/ 
 <template>
   <v-app>
-
     <v-main>
       <router-view/>
     </v-main>

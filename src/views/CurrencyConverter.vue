@@ -1,5 +1,13 @@
+/*
+System: Binance Front-end
+Developer: Muhammad Ali
+Date: Jan 1, 2022
+Organization: Programmer Force
+Purpose: This file CurrencyConverter.vue is responsible for currency converion 
+from any number of ammount to cryptocurrency amount.
+*/
 <template>
-  <div class=" pt-2 wrapper" style="height: 100vh">
+  <div class="pt-2 wrapper" style="height: 100vh">
     <NavBar />
 
     <v-sheet height="100vh" class="main-sheet">
@@ -20,7 +28,7 @@
       </v-container>
       <v-container>
         <v-row justify="center">
-          <v-col  cols="12" lg="8" xl="8" md="8" sm="12" xs="12">
+          <v-col cols="12" lg="8" xl="8" md="8" sm="12" xs="12">
             <p>Enter Amount</p>
             <v-text-field
               outlined
@@ -28,7 +36,7 @@
               placeholder="20-22300"
               required
             ></v-text-field>
-            <p>Select Currency To convert: </p>
+            <p>Select Currency To convert:</p>
             <v-select
               outlined
               :items="Currency"
@@ -37,10 +45,7 @@
               required
             ></v-select>
             <div class="d-flex justify-center">
-
-            <v-btn width="50%" class="py-6 background">
-                Convert
-            </v-btn>
+              <v-btn width="50%" class="py-6 background"> Convert </v-btn>
             </div>
           </v-col>
         </v-row>

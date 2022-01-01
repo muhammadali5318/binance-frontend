@@ -1,3 +1,10 @@
+/*
+System: Binance Front-end
+Developer: Muhammad Ali
+Date: Jan 1, 2022
+Organization: Programmer Force
+Purpose: This file NewDevice.vue is responsible for proccessing verification requst whenever uer login from new device.
+*/
 <template>
   <v-main>
     <AuthNavBar />

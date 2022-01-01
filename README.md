@@ -1,5 +1,9 @@
 # binance
 
+## Home Page
+![Home Page](src\assets\readmeImage\HomePage.png)
+
+
 ## Project setup
 ```
 npm install

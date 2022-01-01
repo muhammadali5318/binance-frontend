@@ -1,3 +1,10 @@
+/*
+System: Binance Front-end
+Developer: Muhammad Ali
+Date: Jan 1, 2022
+Organization: Programmer Force
+Purpose: This file IdentityDocument.vue is a helping component used in KYC Verificatino procss
+*/
 <template>
   <div>
     <div class="text-center">

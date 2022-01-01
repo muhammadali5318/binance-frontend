@@ -1,3 +1,10 @@
+/*
+System: Binance Front-end
+Developer: Muhammad Ali
+Date: Jan 1, 2022
+Organization: Programmer Force
+Purpose: This file NavBar.vue is the main NavBar which is used in all project
+*/
 <template>
   <div>
     <v-app-bar app>

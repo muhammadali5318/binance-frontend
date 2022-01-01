@@ -1,7 +1,6 @@
 <template>
-  <div>
+  <section>
     <AuthNavBar />
-    <!-- *************************************************** -->
     <div
       style="height: 100vh"
       class="wrapper"
@@ -94,8 +93,8 @@
           </div>
       </section>
     </div>
-    <!-- *************************************************** -->
-  </div>
+
+  </section>
 </template>
 
 <script>

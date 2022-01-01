@@ -1,3 +1,10 @@
+/*
+System: Binance Front-end
+Developer: Muhammad Ali
+Date: Jan 1, 2022
+Organization: Programmer Force
+Purpose: This file MarketTrends.vue is a simple file consist of a table where current market trends show.
+*/
 <template>
   <v-container>
     <h2 class="my-6">Market Trends</h2>

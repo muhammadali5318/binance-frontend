@@ -1,7 +1,10 @@
 /*
-This is nav bar file used in Signup And Login Page
- */
-
+System: Binance Front-end
+Developer: Muhammad Ali
+Date: Jan 1, 2022
+Organization: Programmer Force
+Purpose: This file AuthNavBar.vue is a Nav Bar in Signup And Login Page
+*/ 
 <template>
   <v-card color="grey lighten-4" flat tile>
     <v-toolbar>

@@ -1,3 +1,10 @@
+/*
+System: Binance Front-end
+Developer: Muhammad Ali
+Date: Jan 1, 2022
+Organization: Programmer Force
+Purpose: This file DepositeFiet.vue is a simple order history File where user can check his previous order and place new orders
+*/
 <template>
   <section>
     <NavBar />
