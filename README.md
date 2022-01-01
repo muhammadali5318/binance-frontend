@@ -1,7 +1,7 @@
 # binance
 
 ## Home Page
-![Home Page](src\assets\readmeImage\HomePage.png)
+![Home Page](../assets/readmeImage/HomePage.png)
 
 
 ## Project setup
