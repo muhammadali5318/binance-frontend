@@ -18,7 +18,7 @@ export default {
 };
 </script>
 <style >.background {
-  background-color: rgb(252, 213, 53) !important;
+  background-color: #fcd535 !important;
 }
 .text-color {
   color: #c99400;
